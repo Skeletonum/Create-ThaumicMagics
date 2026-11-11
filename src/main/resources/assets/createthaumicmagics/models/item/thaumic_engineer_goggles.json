@@ -1,0 +1,20 @@
+{
+  "parent": "createthaumicmagics:item/thaumic_engineer_goggles_base",
+  "textures": {
+    "layer0": "create:item/goggles"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "createthaumicmagics:item/thaumic_engineer_goggles_revealing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "createthaumicmagics:item/thaumic_engineer_goggles_engineer"
+    }
+  ]
+}

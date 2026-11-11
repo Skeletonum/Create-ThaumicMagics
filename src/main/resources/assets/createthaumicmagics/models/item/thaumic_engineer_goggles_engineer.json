@@ -1,0 +1,6 @@
+{
+  "parent": "createthaumicmagics:item/thaumic_engineer_goggles_base",
+  "textures": {
+    "layer0": "create:item/goggles"
+  }
+}

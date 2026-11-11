@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createthaumicmagics:thaumic_brass_ingot"
+    }
+  ],
+  "results": [
+    {
+      "id": "createthaumicmagics:thaumic_brass_sheet"
+    }
+  ]
+}

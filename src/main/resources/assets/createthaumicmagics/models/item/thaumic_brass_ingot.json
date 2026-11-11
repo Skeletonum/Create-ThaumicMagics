@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "createthaumicmagics:item/thaumic_brass_ingot"
+  }
+}

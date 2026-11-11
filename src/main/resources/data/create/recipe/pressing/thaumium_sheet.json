@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "thaumcraft:thaumium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "id": "createthaumicmagics:thaumium_sheet"
+    }
+  ]
+}

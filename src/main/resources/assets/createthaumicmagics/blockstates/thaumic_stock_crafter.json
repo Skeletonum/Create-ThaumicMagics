@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "stockinstantcraft:block/stock_crafter"
+    },
+    "facing=east": {
+      "model": "stockinstantcraft:block/stock_crafter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stockinstantcraft:block/stock_crafter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stockinstantcraft:block/stock_crafter",
+      "y": 270
+    }
+  }
+}
